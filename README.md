@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me : bahareh.ghanbarii@gail.com
+- 📫 How to reach me : bahareh.ghanbarii@gmail.com
 
 <!---
 DataScienceSchools/DataScienceSchools is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
