@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bahar GK Author of @DataScienceSchools
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me : 
 - 
   E-Mail: bahareh.ghanbarii@gmail.com, mydatascienceschools@gmail.com
