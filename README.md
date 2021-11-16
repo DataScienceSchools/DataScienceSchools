@@ -6,8 +6,7 @@
 - 
   E-Mail: bahareh.ghanbarii@gmail.com, mydatascienceschools@gmail.com
   LinkedIn: https://www.linkedin.com/in/bahar-gk-8989a020a/
-  Website:https://datascienceschools.github.io
-
+  Website:
 
 <!---
 DataScienceSchools/DataScienceSchools is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
