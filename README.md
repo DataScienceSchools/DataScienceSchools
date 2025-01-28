@@ -1,6 +1,5 @@
-- 👋 Author : Bahar GK 
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science
+- 👋 Author : Bahareh GK 
+- 👀 I’m interested in Data 
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me : 
 - E-Mail: baharkondori@gmail.com
