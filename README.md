@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me : 
-- E-Mail: bahareh.ghanbarii@gmail.com
+- E-Mail: baharkondori@gmail.com
 - LinkedIn: https://www.linkedin.com/in/bahargk/
 
 
